@@ -3,12 +3,13 @@
 Scrum Master 
 
 Maxsuel
-
+-------------------
 Product Owner
 
 Lucas Gomes Barboza - 3024107159
-
+---------------------
 Dev Team
+---------------------
 
 Cristian Ferreira Tomaz - 3024103048
 
