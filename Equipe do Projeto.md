@@ -17,6 +17,8 @@ Giuseppe brandão Martins - 3024102637
 
 Gustavo Machado santos - 3024104229
 
+Kaue Gomes Rocha - 3024101691
+
 Luiz Fernando Pereira Fibla Camargo - 2221201395
 
 Michel Teixeira da Silva - 2222100895
