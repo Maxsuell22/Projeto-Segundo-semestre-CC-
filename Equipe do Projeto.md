@@ -1,13 +1,13 @@
 # Projeto-Segundo-semestre-CC-
 
 Scrum Master 
-
-Maxsuell Wesley dos Santos - 418103682
 -------------------
-Product Owner
+Maxsuell Wesley dos Santos - 418103682
 
-Lucas Gomes Barboza - 3024107159
+Product Owner
 ---------------------
+Lucas Gomes Barboza - 3024107159
+
 Dev Team
 ---------------------
 
